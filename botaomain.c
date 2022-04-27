@@ -139,7 +139,7 @@ void state(int number){
 			LED2 = 1;
 			__delay_ms(50); 
 			break;
-	   default:
+	    default:
 			LED1 = 0;
 			LED2 = 0;
 			break;
